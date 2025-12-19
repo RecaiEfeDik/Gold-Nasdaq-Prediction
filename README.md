@@ -1,6 +1,6 @@
 # Gold & Nasdaq Time-Series Prediction (LMMSE + GRU)
 
-This repository contains a Jupyter notebook that explores **two different approaches to time-series prediction** on financial data:
+This repository contains a notebook that explores **two different approaches to time-series prediction** on financial data:
 
 - **LMMSE (Linear Minimum Mean Square Error)** prediction using an autocorrelation-based linear filter
 - **Deep Learning (GRU)** model trained on sliding windows of the time series
